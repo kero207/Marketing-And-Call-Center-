@@ -1,49 +1,40 @@
-# 📞 Marketing and Call Center Dashboard  
+# 📞 Marketing & Call Center Dashboard  
 
-*Role:* Data Analyst  
+**Role:** Data Analyst  
 
-Turning raw call center data into clear insights 📊  
+Turning raw marketing and call center data into clear, actionable insights 📊  
 
 ---
 
 ## 📊 Project Overview  
 
-I developed a dynamic and interactive Call Center Dashboard that provides:  
+This dashboard focuses on combining marketing insights with call center operations. It provides:  
 
-- Agent performance highlighting the *Top 5 agents*  
-- Customer distribution by *state* and *gender*  
-- *Average call duration* analysis  
-- Reasons behind *abandoned and failed calls*  
-- *Monthly call trends*  
-- Product *success vs failure* during calls  
+- Reasons behind abandoned and failed calls  
+- Monthly call trends  
+- Product success vs failure during calls  
 
-✅ Filterable by *agent, time of day (morning/afternoon/evening), and month* → user-friendly & decision-oriented.  
+✅ The dashboard is filterable by **agent, time of day (morning/afternoon/evening), and by month**, making it user-friendly and decision-oriented.  
 
 ---
 
-## 📸 Preview  
+## 📌 Project Post on LinkedIn
 
-[Screenshot 1](assets/Screenshot_2025-08-22_040625.png)
-[Screenshot 2](assets/Screenshot_2025-08-22_040728.png)
-
----
-
-## 🎥 Demo  
-
-▶ [Watch Demo](assets/InShot_20250822_174343156.mp4)  
+Check out the full project on LinkedIn:  
+[Marketing & Call Center Dashboard](https://www.linkedin.com/posts/kerolles-abo-alnasr-21510a291_dataanalysis-datavisualization-excel-activity-7364672716144095235-lrpg)
 
 ---
 
-## 🛠 Tools & Skills  
+## 🛠️ Tools & Skills  
 
-- *Excel* (Pivot Tables, Queries, Dashboards)   
-- *SQL (MySQL)* 
-- *Data Cleaning & Visualization*  
+- **Excel** (Pivot Tables, Queries, Dashboards)  
+- **SQL (MySQL)** 
+- **Data Cleaning & Visualization**  
 
 ---
 
 ## 📬 Contact  
 
-- *LinkedIn:* [Kerolles Abo alnasr](https://www.linkedin.com/in/kerolles-abo-alnasr-21510a291)  
-- *Email:* keromansour89@gmail.com  
-- *Phone:* 01026875928
+- **LinkedIn:** [Kerolles Abo alnasr](https://www.linkedin.com/in/kerolles-abo-alnasr-21510a291)  
+- **Email:** keromansour89@gmail.com  
+- **Phone:** 01026875928
