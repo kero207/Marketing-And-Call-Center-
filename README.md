@@ -23,8 +23,8 @@ I developed a dynamic and interactive Call Center Dashboard that provides:
 
 ## 📸 Preview  
 
-[Screenshot 1](assets/Screenshot 2025-08-22 040625.png)
-[Screenshot 2](assets/Screenshot 2025-08-22 040728.png)
+[Screenshot 1](assets/Screenshot_2025-08-22_040625.png)
+[Screenshot 2](assets/Screenshot_2025-08-22_040728.png)
 
 ---
 
